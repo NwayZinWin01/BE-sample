@@ -1,0 +1,17 @@
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\bin\Debug\net8.0\Data Access.deps.json
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\bin\Debug\net8.0\Data Access.dll
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\bin\Debug\net8.0\Data Access.pdb
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\bin\Debug\net8.0\Infrastructure.dll
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\bin\Debug\net8.0\Infrastructure.pdb
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.csproj.AssemblyReference.cache
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.GeneratedMSBuildEditorConfig.editorconfig
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.AssemblyInfoInputs.cache
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.AssemblyInfo.cs
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.csproj.CoreCompileInputs.cache
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Acc.2A753020.Up2Date
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.dll
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\refint\Data Access.dll
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.pdb
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\ref\Data Access.dll
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\bin\Debug\net8.0\Data Access.runtimeconfig.json
+D:\NWAYZINWIN\Test\test_be\Web\Data Access\obj\Debug\net8.0\Data Access.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\NWAYZINWIN\Test\test_be\Web\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
